@@ -1,2 +1,5 @@
-# SQL_for_data_analysis
-You are hired as a Financial Data Analyst by Barclays, a major global banking institution. As  digital transactions rise and customers diversify their account usage, the executive team wants  to uncover patterns in customer financial behavior, account performance, and transaction risks  to improve customer service and minimize financial risk.
+Project Overview: Amazon, a global e-commerce leader, handles millions of 
+daily shipments across various regions. The logistics network is vast, 
+comprising warehouses, fulfillment centers, and last-mile delivery partners. 
+With increasing order volumes, delays and inefficiencies in delivery routes can 
+significantly affect customer satisfaction and operational costs.
